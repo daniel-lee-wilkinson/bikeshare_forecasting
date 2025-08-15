@@ -25,8 +25,12 @@ Forecast daily bike rentals for Capital Bikeshare using classic ARIMA and ARIMAX
 ## Results (ARIMA vs ARIMAX)
 - **Fit quality:** ARIMAX outperforms ARIMA (lower AIC; lower residual variance).  
   - ARIMA AIC ≈ **12,041.75**; σ² ≈ **844k**.  
-  - ARIMAX AIC ≈ **11,791.54**; σ² ≈ **598k**.  
+  - ARIMAX AIC ≈ **11,791.54**; σ² ≈ **598k**.
+ 
+![ARIMA vs ARIMAX Projections](arima_arimax.png)
+
 - **Coefficient intuition:** Warmer temps increase rentals; higher humidity/wind reduce rentals (significant effects reported in the write-up).
+
 
 ---
 
@@ -60,8 +64,6 @@ Forecast daily bike rentals for Capital Bikeshare using classic ARIMA and ARIMAX
 
 ---
 
-## License
-MIT (see `LICENSE`).
 
 ## Author
 Daniel Wilkinson
