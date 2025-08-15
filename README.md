@@ -47,7 +47,7 @@ Compares a baseline ARIMA model with an ARIMAX model that adds **weather data** 
 - Higher humidity/wind → lower rentals  
 - ARIMAX tracked short-term fluctuations better than ARIMA.
 
-![ARIMA vs ARIMAX Holdout Forecast](holdout_arima_vs_arimax.png)
+![ARIMA vs ARIMAX Holdout Forecast](holdout_arima_vs_arimax_linkedin.png)
 
 ---
 
