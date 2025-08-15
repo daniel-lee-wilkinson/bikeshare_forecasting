@@ -48,7 +48,7 @@ Forecast daily bike rentals for Capital Bikeshare using classic ARIMA and ARIMAX
 ---
 
 ## Repo Structure
-- `data/` – raw/processed data
+- `.csv` – raw data
 - `.Rmd` – scripts and the main RMarkdown analysis
 - `bikeshare_projection_report.html` – rendered report (ARIMA vs ARIMAX, plots, diagnostics).
 
